@@ -1,0 +1,5 @@
+n= int(input())
+h= int(input())
+s= float(input())
+print('NUMBER =', n)
+print('SALARY = U$', f'{(s*h):.2f}')
